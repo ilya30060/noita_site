@@ -1,5 +1,5 @@
 .outline_div{
-    border: 1px solid rgb(199, 4, 4);
+    border: 1px solid rgb(237, 237, 237);
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -11,4 +11,13 @@
 .margined_text{
     margin-right: 10px;
     margin-left: 10px;
+}
+.half_scr_right{
+    position: relative;
+    left: 55%;
+    width: 30%;
+}
+.half_scr_left{
+    position: relative;
+    width: 30%;
 }
