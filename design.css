@@ -8,3 +8,7 @@
     width: 100%; 
     justify-content: space-evenly;
 }
+.margined_text{
+    margin-right: 10px;
+    margin-left: 10px;
+}
