@@ -13,4 +13,27 @@ body{
     justify-content: center;
     color: white;
     flex-direction: column;
+    background-color: black;
+}
+.outline_div{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.row{
+    display: flex; 
+    width: 100%; 
+    justify-content: space-evenly;
+}
+.margined_text{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.half_scr_right{
+    position: relative;
+    left: 55%;
+    width: 45%;
+}
+.half_scr_left{
+    position: relative;
+    width: 45%;
 }
