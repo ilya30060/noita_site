@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+body{
+    font-family: "PT Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+    background-color: black;
+}
 .outline_div{
     margin-top: 10px;
     margin-bottom: 10px;
@@ -19,7 +26,4 @@
 .half_scr_left{
     position: relative;
     width: 45%;
-}
-body{
-    background-color: black;
 }
