@@ -37,3 +37,11 @@ body{
     position: relative;
     width: 45%;
 }
+
+.links{
+    color:white;
+    font-weight: 700;
+}   
+.links:hover{
+    color:red;
+}
